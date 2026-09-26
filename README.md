@@ -50,4 +50,3 @@ application mode).
 Python (pandas, seaborn, matplotlib, scipy), Jupyter/Kaggle Notebook,
 Microsoft Power BI
 
-## Repository Structure
